@@ -12,4 +12,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Yashjn0/Leetcode-question-done-repository/tree/master/0595-big-countries) |
+| [1258-article-views-i](https://github.com/Yashjn0/Leetcode-question-done-repository/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
