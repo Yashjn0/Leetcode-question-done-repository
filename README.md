@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Yashjn0/Leetcode-question-done-repository/tree/master/0197-rising-temperature) |
+| [0577-employee-bonus](https://github.com/Yashjn0/Leetcode-question-done-repository/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Yashjn0/Leetcode-question-done-repository/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Yashjn0/Leetcode-question-done-repository/tree/master/1258-article-views-i) |
 | [1801-average-time-of-process-per-machine](https://github.com/Yashjn0/Leetcode-question-done-repository/tree/master/1801-average-time-of-process-per-machine) |
